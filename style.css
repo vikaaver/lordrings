@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+.title{
+    margin-top: 0;
+    color:rgb(244, 203, 203);
+    text-decoration: underline;
+}
+
+.card{
+    width: 400px ;
+    height: 725px;
+    background-color: rgb(72, 55, 30);
+    padding: 50px;
+    margin: 15px;
+    border-radius: 25px;
+
+}
+
+.filmText{
+    color: white;
+    width: 100%;
+padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 40px  auto;
+   
+    
+}
+
+.poster{
+    width: 100%;
+
+}
